@@ -24,7 +24,7 @@ class SkillsDesktop extends StatelessWidget {
                           fontWeight: FontWeight.bold,
                           color: CustomColor.whitePrimary),
                     ),
-                    SizedBox(height: 10,), 
+                    SizedBox(height: 50,), 
                     //platform and skills
                     Row(
                       crossAxisAlignment: CrossAxisAlignment.start,
